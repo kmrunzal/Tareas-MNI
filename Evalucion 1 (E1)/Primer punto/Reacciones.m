@@ -1,4 +1,4 @@
-function[ra,rb] = fun_reacc(a,b,p,w,wt)
+function[ra,rb]=Reacciones(a,b,p,w,wt)
 %Función para calcular las reacciones en los apoyos de la viga simplemente
 %apoyada.
 %
